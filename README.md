@@ -23,7 +23,7 @@
 
 - 🌱 I’m currently learning **SASS, Tailwind Css, and Bootstrap**
 
-- 👨‍💻 All of my projects are available at [www.portofolio.ariefiantorizky.com/](www.portofolio.ariefiantorizky.com/)
+- 👨‍💻 All of my projects are available at [https://ariefiantorizky.github.io/web-portofolio/](https://ariefiantorizky.github.io/web-portofolio/)
 
 - 📫 How to reach me **ariefiantorizky2907@gmail.com**
 
