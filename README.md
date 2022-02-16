@@ -16,6 +16,7 @@
  - jQuery
  - CSS Preprocessor / Sass
  - NodeJS
+ - Express JS
  - MongoDB
  - Mongoose
 
