@@ -15,6 +15,9 @@
  - Bootstrap 
  - jQuery
  - CSS Preprocessor / Sass
+ - NodeJS
+ - MongoDB
+ - Mongoose
 
  I have a passion in the field of interface-based website development or better known as FrontEnd Web Developer. Discipline, Diligent, happy to     Experiment, and high curiosity are the attitudes that I have. I am currently carrying out Internship activities at Lion of Informatics.  In this company I gained a lot of knowledge in website development, besides that I was also taught to manage time properly and correctly. As an engineer, I can work in a team or individually.  What I love about working in a team is that my team members and I can exchange ideas, and share each other's opinions and experiences.
 </p>
