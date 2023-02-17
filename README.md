@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ariefiantorizky&label=Profile%20views&color=009dff&style=flat-square" alt="ariefiantorizky" /> </p>
 
 **About Me :**
-<p>
-  I am a Junior Software Engineer with ± 1 year experience.  I have learned many lessons, such as learning website development, making UI UX designs, and  
+
+<p>Hello, there!</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
