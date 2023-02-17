@@ -5,35 +5,7 @@
 
 **About Me :**
 <p>
-  I am a Junior Software Engineer with ± 1 year experience.  I have learned many lessons, such as learning website development, making UI UX designs, and  learning time management.
-
- The main skills that I have are:
- - HTML 
- - CSS 
- - Javascript 
- - Tailwind CSS 
- - Bootstrap 
- - jQuery
- - CSS Preprocessor / Sass
- - NodeJS
- - Express JS
- - MongoDB
- - Mongoose
-
- I have a passion in the field of interface-based website development or better known as FrontEnd Web Developer. Discipline, Diligent, happy to     Experiment, and high curiosity are the attitudes that I have. I am currently carrying out Internship activities at Lion of Informatics.  In this company I gained a lot of knowledge in website development, besides that I was also taught to manage time properly and correctly. As an engineer, I can work in a team or individually.  What I love about working in a team is that my team members and I can exchange ideas, and share each other's opinions and experiences.
-</p>
-
-**Talking about Personal Stuffs:**
-
-- 🌱 I’m currently learning **SASS, Tailwind Css, and Bootstrap**
-
-- 👨‍💻 All of my projects are available at [https://ariefiantorizky.github.io/web-portofolio/](https://ariefiantorizky.github.io/web-portofolio/)
-
-- 📫 How to reach me **ariefiantorizky2907@gmail.com**
-
-- 📄 Know about my experiences [www.ariefiantorizky.com](www.ariefiantorizky.com)
-
-- ⚡ Fun fact **I always thought that programming was fun.**
+  I am a Junior Software Engineer with ± 1 year experience.  I have learned many lessons, such as learning website development, making UI UX designs, and  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
